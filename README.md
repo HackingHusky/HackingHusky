@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @HackingHusky
-- 👀 I’m interested in ethical hacking 
-- 🌱 I’m currently learning and trainig for the oscp, port swiggers web application test
-- 💞️ I’m looking to collaborate on anything really! 
-- 📫 How to reach me here or my linked in profile: https://www.linkedin.com/in/aaron-ashley-48b411241/.
-- ⚡ Fun fact: not all facts can be fun. 
+Hi there, my name is Aaron Ashely! I've been working in IT and also dived into cybersecurity. 
+How to reach me here or my LinkedIn profile: https://www.linkedin.com/in/aaron-ashley-48b411241/.
+Youtube: https://www.youtube.com/@TheHuskeyHacker
+
+ 
