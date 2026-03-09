@@ -41,7 +41,6 @@
 - Networking (TCP/IP, VLANs, Wi‑Fi)  
 - Microsoft 365 & Azure AD  
 - Linux 
-- Security Fundamentals (SIEM, IDS/IPS, SOC workflows)  
 - PowerShell & Bash  
 - Ticketing & Documentation  
 - Pentesting (tools, methodology, reconnaissance, vuln assessment)
