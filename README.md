@@ -1,4 +1,4 @@
-# Hi, I’m Aaron Ashley 👋
+# Hi, I’m Aaron Ashley A.K.A The Husky Hacker
 
 ## Developing offensive security skills through red‑team style labs—covering reconnaissance, vulnerability discovery, exploit development basics, lateral movement, persistence, and detailed pentest documentation.
 
