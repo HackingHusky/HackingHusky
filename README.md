@@ -40,7 +40,7 @@
 - Endpoint Support (Windows/macOS)  
 - Networking (TCP/IP, VLANs, Wi‑Fi)  
 - Microsoft 365 & Azure AD  
-- Linux basics  
+- Linux 
 - Security Fundamentals (SIEM, IDS/IPS, SOC workflows)  
 - PowerShell & Bash  
 - Ticketing & Documentation  
