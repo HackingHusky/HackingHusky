@@ -7,7 +7,7 @@
 -  Tools I like: PowerShell, Bash, Windows Event Logs, Wazuh/Elastic, M365/Azure AD
 -  Learning: Offensive security fundamentals, adversary tactics & techniques, vulnerability discovery, exploitation methodology, post‑exploitation workflows, and professional pentest documentation/reporting.
 -  YouTube: [@TheHuskeyHacker](https://www.youtube.com/@TheHuskeyHacker)
--  LinkedIn: [in/aaron-ashley-48b411241](https://www.linkedin.com/in/aaron-ashley-48b411241/)
+-  LinkedIn: (https://www.linkedin.com/in/aaron-ashley-gaddis-48b411241/)
 -  Blog: [Medium — @aaronashley466](https://medium.com/@aaronashley466)
 -  Website: https://hacking-husky.link/
 -  Portfolio site: [https://husky-command-hub.base44.app/home](https://thehuskyhacker.com/)
